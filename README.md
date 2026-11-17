@@ -25,8 +25,8 @@ API REST para gestão de uma livraria (livros, autores, categorias, usuários e 
 Pré-requisito: [Node.js](https://nodejs.org/) 18 ou superior.
 
 ```bash
-git clone https://github.com/stefanifatima94-sys/api-livraria.git
-cd api-livraria
+git clone https://github.com/stefanifatima94-sys/API---LIVRARIA.git
+cd API---LIVRARIA
 npm install
 npm start        # ou: npm run dev (reinicia ao salvar)
 npm test         # roda os testes automatizados
